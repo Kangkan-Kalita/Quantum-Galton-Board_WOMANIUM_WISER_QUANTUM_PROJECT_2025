@@ -1,9 +1,6 @@
+## `tests/README.md`
 
----
 
-## 6) `tests/README.md`
-
-```
 # tests/
 
 Unit and statistical tests used to validate correctness.
