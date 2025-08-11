@@ -1,12 +1,19 @@
-# Quantum Galton Board — WISER & Womanium Quantum Program 2025
+# Quantum Galton Board — WOMANIUM & WISER QUANTUM PROGRAM 2025
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Notebooks](https://img.shields.io/badge/notebooks-4-orange.svg)](#notebooks)
 [![Tests](https://img.shields.io/badge/tests-pytest-green.svg)](#tests)
 
+**Program :** **WOMANIUM & WISER QUANTUM PROGRAM 2025**
+
 **Author :** **Kangkan Kalita**
 
-**Program :** **WISER & Womanium Quantum Program 2025**
+**Email :** *kalitakangkan.239@gmail.com*
+
+**Team Name :** **QBlitz**
+
+**Enrollment ID :** `gst-LYB7DR8Qbmc59CD`
+
 ---
 
 ## Project summary :
