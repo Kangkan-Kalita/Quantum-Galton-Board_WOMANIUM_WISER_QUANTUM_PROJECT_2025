@@ -209,7 +209,7 @@ This project is released under the **MIT License** — see `LICENSE` for details
 
 ## Acknowledgements
 
-Thanks to the WISER & Womanium Quantum Program 2025 for sponsoring this project. Additional thanks to the Qiskit and PennyLane communities for tools and examples.
+Thanks to the WOMANIUM & WISER QUANTUM PROGRAM 2025 for sponsoring this project. Additional thanks to the Qiskit and PennyLane communities for tools and examples.
 
 ---
 
