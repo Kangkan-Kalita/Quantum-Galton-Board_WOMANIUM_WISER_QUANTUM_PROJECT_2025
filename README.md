@@ -208,8 +208,6 @@ Thanks to the WISER & Womanium Quantum Program 2025 for sponsoring this project.
 
 ## Contact
 
-If you find a bug or want to collaborate, please open an issue on the repository or contact: **kalitakangkan.239@gmail.com**.
+If you find a bug or want to collaborate, please open an issue on the repository or contact : **kalitakangkan.239@gmail.com**.
 
 ```
-
----
