@@ -171,7 +171,7 @@ We compute the following metrics to quantify match with analytic targets :
 * **Kullback-Leibler (KL) divergence**
 * **Bhattacharyya / classical fidelity** (sum of sqrt of probabilities)
 
-Plots and metric summaries are saved in `assets/figures/`. See `project_report.pdf` for a two-page summary of selected results.
+See `Project_Report.md` for a summary of results.
 
 ---
 
@@ -181,16 +181,6 @@ Plots and metric summaries are saved in `assets/figures/`. See `project_report.p
 * **Bitstring ordering**: Qiskit classical bitstrings are MSB..LSB. Our helpers attempt to robustly translate to a bin index (LSB-first). If you changed measurement wire order, adjust `counts_to_bin_counts()` accordingly.
 * **Deterministic outputs / no jitter**: If repeated runs give identical counts, check you didn’t pass a fixed simulator seed or use a deterministic backend. Remove `seed_simulator` to get fresh randomness (or pass different seeds).
 * **Experimental folder**: QFT & ripple-adder experiments are archived; they may fail deterministically on different Qiskit versions because of decompositions and Incrementer availability. See `experimental/notes_experimental.md`.
-
----
-
-## Reproducibility & CI
-
-* Recommended CI: GitHub Actions workflow that installs pinned dependencies and runs:
-
-  * `pytest -q`
-  * Optionally run a headless script to regenerate figures.
-* Add `requirements.txt` with pinned versions for reproducibility.
 
 ---
 
