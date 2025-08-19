@@ -1,0 +1,32 @@
+# requirements.txt for Quantum Galton Board project
+# Usage: pip install -r requirements.txt
+# NOTE: If you hit wheel/build errors for qiskit-aer, prefer a conda environment
+# (conda install -c conda-forge qiskit-aer) or use pip on Linux/OSX with proper toolchain.
+
+# Core numerical / plotting / utils
+numpy==1.26.2
+scipy==1.11.3
+matplotlib==3.8.1
+pandas==2.2.2
+
+# Quantum SDKs and simulators
+qiskit==1.3
+qiskit-aer==0.15
+qiskit-ibm-runtime==0.34.0
+
+# Utilities
+!pip install matplotlib numpy
+!pip install pylatexenc==2.10
+
+# Extras: testing, notebooks, dev tools
+pytest==7.4.2
+jupyterlab==4.4.0
+notebook==7.0.1
+
+# Small helpers used in repo / docs
+plotly==5.16.0
+pylatexenc==2.10
+
+# Optional but handy (only install if you need them)
+# ipywidgets==8.1.0
+# black==24.1.0 
